@@ -1,0 +1,3 @@
+I want to take DATA602 to deepen my understanding of data principles and their real-world applications.
+This course offers the opportunity to learn essential concepts like ETL, visualization, and analysis, which are crucial for making data-driven decisions.
+I believe that mastering these skills will enhance my ability to extract insights from data, which is important for both academic and professional growth in the data science field.
